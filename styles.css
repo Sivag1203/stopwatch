@@ -1,0 +1,31 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(to right,#BE5A83,#E06469,#F2B6A0);
+
+}
+.container{
+    margin: 100px auto;
+    text-align: center;
+}
+h1{
+    font-size: 4em;
+    color:white;
+}
+p{
+    font-size: 5em;
+    color:white;
+}
+button{
+    border:none;
+    padding: 18px 10px;
+    font-size: 1.2em;
+    width: 180px;
+    margin: auto 10px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #DEDEA7;
+    color: white;
+    border: none;
+}
